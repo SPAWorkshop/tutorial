@@ -1,0 +1,1 @@
+# Remove session's slot
