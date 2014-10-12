@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [How it works](how_it_works/README.md)
 * [Tasks](tasks/README.md)
    * [Task 0 - Fake requests delay](tasks/task_0_-_fake_requests_delay.md)
    * [Task 1 - Session detail page](tasks/task_1_-_session_detail_page.md)
